@@ -4,6 +4,8 @@ Link to Tableau Story:
 
 https://public.tableau.com/views/LHLTableauAssignment/CausesofDeath1990to2019?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+_Regardless of what I did when attempting to print the Tableau Story into a PDF or Powerpoint, half would be clipped off. I attempted to rescale the resolution in a bunch of different options, and there was no change. This seems like the best option to me, but if you'd like me to print off the visualizations regardless, just let me know._
+
 ## Project/Goals
 For this project I chose dataset 5 of option 2 (Causes of Death). The dataset is made up of dozens of causes of death broken down by country and year. My goal for this project was to thoroughly examine the data and explore interesting trends with Tableau Visualizations.
 
