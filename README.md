@@ -5,11 +5,11 @@ Link to Tableau Story:
 https://public.tableau.com/views/LHLTableauAssignment/CausesofDeath1990to2019?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Project/Goals
-My goal for this project was to thoroughly examine the data and explore interesting trends with Tableau Visualizations.
+For this project I chose dataset 5 of option 2 (Causes of Death). The dataset is made up of dozens of causes of death broken down by country and year. My goal for this project was to thoroughly examine the data and explore interesting trends with Tableau Visualizations.
 
 ## Process
 ### Collection of Data
-Aside from the causes of death csv file, I also grabbed population information from the World Bank database. This information is almost necessary when attempting to identify trends in causes of death. The two files were joined on the standardized country codes. 
+Aside from the original causes of death csv file, I also grabbed population information from the World Bank database. This information is almost necessary when attempting to identify trends in causes of death. The two files were joined on the standardized country codes. 
 https://databank.worldbank.org/reports.aspx?source=2&series=SP.POP.TOTL&country=#
 ### Focusing on the Data
 I decided to focus on a few broad sections of the data: 
@@ -36,4 +36,3 @@ I found myself making visualizations with certain graphs that I later found did 
 
 ## Future Goals
 I found that essentially everything I wanted to do with Tableau I could do, if I spent enough time figuring it out. Next time I would spend more effort on learning how to make my visualizations more visually appealing. When it comes to this particular dataset, exploring some of the other causes of death would be interesting. I focused moreso on a few limited segments, but there are still many more where interesting trends can be identified.
-
