@@ -1,5 +1,9 @@
 # Final-Project-Tableau
 
+Link to Tableau Story:
+
+https://public.tableau.com/views/LHLTableauAssignment/CausesofDeath1990to2019?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 ## Project/Goals
 My goal for this project was to thoroughly examine the data and explore interesting trends with Tableau Visualizations.
 
